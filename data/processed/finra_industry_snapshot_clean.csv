@@ -1,0 +1,101 @@
+numberOfFirms,reportDate,year,individualOrFirm,registrationTypeAtEndOfYear
+4455,2021-12-31,2011,Firm,All FINRA-Registered Broker-Dealer Firms at Year End
+3673,2021-12-31,2011,Firm,Broker-Dealer Firms - Only at Year End
+782,2021-12-31,2011,Firm,Dual Broker-Dealer and Investment Advisers at Year End
+25524,2021-12-31,2011,Firm,Investment Adviser Firms-Only at Year End
+29979,2021-12-31,2011,Firm,Securities Industry Registered Firms at Year End
+4289,2021-12-31,2012,Firm,All FINRA-Registered Broker-Dealer Firms at Year End
+3545,2021-12-31,2012,Firm,Broker-Dealer Firms - Only at Year End
+744,2021-12-31,2012,Firm,Dual Broker-Dealer and Investment Advisers at Year End
+27131,2021-12-31,2012,Firm,Investment Adviser Firms-Only at Year End
+31420,2021-12-31,2012,Firm,Securities Industry Registered Firms at Year End
+4289,2022-12-31,2012,Firm,All FINRA-Registered Broker-Dealer Firms at Year End
+3545,2022-12-31,2012,Firm,Broker-Dealer Firms - Only at Year End
+744,2022-12-31,2012,Firm,Dual Broker-Dealer and Investment Advisers at Year End
+27131,2022-12-31,2012,Firm,Investment Adviser Firms-Only at Year End
+31420,2022-12-31,2012,Firm,Securities Industry Registered Firms at Year End
+4146,2021-12-31,2013,Firm,All FINRA-Registered Broker-Dealer Firms at Year End
+3449,2021-12-31,2013,Firm,Broker-Dealer Firms - Only at Year End
+697,2021-12-31,2013,Firm,Dual Broker-Dealer and Investment Advisers at Year End
+27511,2021-12-31,2013,Firm,Investment Adviser Firms-Only at Year End
+31657,2021-12-31,2013,Firm,Securities Industry Registered Firms at Year End
+4146,2022-12-31,2013,Firm,All FINRA-Registered Broker-Dealer Firms at Year End
+3449,2022-12-31,2013,Firm,Broker-Dealer Firms - Only at Year End
+697,2022-12-31,2013,Firm,Dual Broker-Dealer and Investment Advisers at Year End
+27512,2022-12-31,2013,Firm,Investment Adviser Firms-Only at Year End
+31658,2022-12-31,2013,Firm,Securities Industry Registered Firms at Year End
+4068,2021-12-31,2014,Firm,All FINRA-Registered Broker-Dealer Firms at Year End
+3391,2021-12-31,2014,Firm,Broker-Dealer Firms - Only at Year End
+677,2021-12-31,2014,Firm,Dual Broker-Dealer and Investment Advisers at Year End
+28135,2021-12-31,2014,Firm,Investment Adviser Firms-Only at Year End
+32203,2021-12-31,2014,Firm,Securities Industry Registered Firms at Year End
+4068,2022-12-31,2014,Firm,All FINRA-Registered Broker-Dealer Firms at Year End
+3391,2022-12-31,2014,Firm,Broker-Dealer Firms - Only at Year End
+677,2022-12-31,2014,Firm,Dual Broker-Dealer and Investment Advisers at Year End
+28134,2022-12-31,2014,Firm,Investment Adviser Firms-Only at Year End
+32202,2022-12-31,2014,Firm,Securities Industry Registered Firms at Year End
+3943,2021-12-31,2015,Firm,All FINRA-Registered Broker-Dealer Firms at Year End
+3303,2021-12-31,2015,Firm,Broker-Dealer Firms - Only at Year End
+640,2021-12-31,2015,Firm,Dual Broker-Dealer and Investment Advisers at Year End
+28712,2021-12-31,2015,Firm,Investment Adviser Firms-Only at Year End
+32655,2021-12-31,2015,Firm,Securities Industry Registered Firms at Year End
+3943,2022-12-31,2015,Firm,All FINRA-Registered Broker-Dealer Firms at Year End
+3303,2022-12-31,2015,Firm,Broker-Dealer Firms - Only at Year End
+640,2022-12-31,2015,Firm,Dual Broker-Dealer and Investment Advisers at Year End
+28712,2022-12-31,2015,Firm,Investment Adviser Firms-Only at Year End
+32655,2022-12-31,2015,Firm,Securities Industry Registered Firms at Year End
+3835,2021-12-31,2016,Firm,All FINRA-Registered Broker-Dealer Firms at Year End
+3226,2021-12-31,2016,Firm,Broker-Dealer Firms - Only at Year End
+609,2021-12-31,2016,Firm,Dual Broker-Dealer and Investment Advisers at Year End
+29081,2021-12-31,2016,Firm,Investment Adviser Firms-Only at Year End
+32916,2021-12-31,2016,Firm,Securities Industry Registered Firms at Year End
+3835,2022-12-31,2016,Firm,All FINRA-Registered Broker-Dealer Firms at Year End
+3226,2022-12-31,2016,Firm,Broker-Dealer Firms - Only at Year End
+609,2022-12-31,2016,Firm,Dual Broker-Dealer and Investment Advisers at Year End
+29081,2022-12-31,2016,Firm,Investment Adviser Firms-Only at Year End
+32916,2022-12-31,2016,Firm,Securities Industry Registered Firms at Year End
+3726,2021-12-31,2017,Firm,All FINRA-Registered Broker-Dealer Firms at Year End
+3130,2021-12-31,2017,Firm,Broker-Dealer Firms - Only at Year End
+596,2021-12-31,2017,Firm,Dual Broker-Dealer and Investment Advisers at Year End
+29600,2021-12-31,2017,Firm,Investment Adviser Firms-Only at Year End
+33326,2021-12-31,2017,Firm,Securities Industry Registered Firms at Year End
+3726,2022-12-31,2017,Firm,All FINRA-Registered Broker-Dealer Firms at Year End
+3130,2022-12-31,2017,Firm,Broker-Dealer Firms - Only at Year End
+596,2022-12-31,2017,Firm,Dual Broker-Dealer and Investment Advisers at Year End
+29600,2022-12-31,2017,Firm,Investment Adviser Firms-Only at Year End
+33326,2022-12-31,2017,Firm,Securities Industry Registered Firms at Year End
+3607,2021-12-31,2018,Firm,All FINRA-Registered Broker-Dealer Firms at Year End
+3045,2021-12-31,2018,Firm,Broker-Dealer Firms - Only at Year End
+562,2021-12-31,2018,Firm,Dual Broker-Dealer and Investment Advisers at Year End
+30246,2021-12-31,2018,Firm,Investment Adviser Firms-Only at Year End
+33853,2021-12-31,2018,Firm,Securities Industry Registered Firms at Year End
+3607,2022-12-31,2018,Firm,All FINRA-Registered Broker-Dealer Firms at Year End
+3045,2022-12-31,2018,Firm,Broker-Dealer Firms - Only at Year End
+562,2022-12-31,2018,Firm,Dual Broker-Dealer and Investment Advisers at Year End
+30246,2022-12-31,2018,Firm,Investment Adviser Firms-Only at Year End
+33853,2022-12-31,2018,Firm,Securities Industry Registered Firms at Year End
+3517,2021-12-31,2019,Firm,All FINRA-Registered Broker-Dealer Firms at Year End
+2989,2021-12-31,2019,Firm,Broker-Dealer Firms - Only at Year End
+528,2021-12-31,2019,Firm,Dual Broker-Dealer and Investment Advisers at Year End
+30534,2021-12-31,2019,Firm,Investment Adviser Firms-Only at Year End
+34051,2021-12-31,2019,Firm,Securities Industry Registered Firms at Year End
+3517,2022-12-31,2019,Firm,All FINRA-Registered Broker-Dealer Firms at Year End
+2989,2022-12-31,2019,Firm,Broker-Dealer Firms - Only at Year End
+528,2022-12-31,2019,Firm,Dual Broker-Dealer and Investment Advisers at Year End
+30535,2022-12-31,2019,Firm,Investment Adviser Firms-Only at Year End
+34052,2022-12-31,2019,Firm,Securities Industry Registered Firms at Year End
+3435,2021-12-31,2020,Firm,All FINRA-Registered Broker-Dealer Firms at Year End
+2930,2021-12-31,2020,Firm,Broker-Dealer Firms - Only at Year End
+505,2021-12-31,2020,Firm,Dual Broker-Dealer and Investment Advisers at Year End
+30888,2021-12-31,2020,Firm,Investment Adviser Firms-Only at Year End
+34323,2021-12-31,2020,Firm,Securities Industry Registered Firms at Year End
+3435,2022-12-31,2020,Firm,All FINRA-Registered Broker-Dealer Firms at Year End
+2930,2022-12-31,2020,Firm,Broker-Dealer Firms - Only at Year End
+505,2022-12-31,2020,Firm,Dual Broker-Dealer and Investment Advisers at Year End
+30891,2022-12-31,2020,Firm,Investment Adviser Firms-Only at Year End
+34326,2022-12-31,2020,Firm,Securities Industry Registered Firms at Year End
+3394,2021-12-31,2021,Firm,All FINRA-Registered Broker-Dealer Firms at Year End
+2914,2021-12-31,2021,Firm,Broker-Dealer Firms - Only at Year End
+480,2021-12-31,2021,Firm,Dual Broker-Dealer and Investment Advisers at Year End
+31669,2021-12-31,2021,Firm,Investment Adviser Firms-Only at Year End
+35063,2021-12-31,2021,Firm,Securities Industry Registered Firms at Year End
