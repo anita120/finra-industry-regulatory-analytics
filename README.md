@@ -8,7 +8,7 @@ An end-to-end data analytics project using **FINRA public API data**, **Python**
 
 ## Dashboard Preview
 
-![FINRA Industry Regulatory Analytics Dashboard](docs/finra_powerbi_dashboard.png)
+![FINRA Industry Regulatory Analytics Dashboard](docs/finra_powerbi_dashboard.PNG)
 
 ---
 
